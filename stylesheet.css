@@ -1,0 +1,73 @@
+body{
+background-color: #f4eedd;
+width:100%;
+padding:0;
+margin:0;
+font-family:Times New Roman;
+}
+/*home page css*/
+
+h1{          /*heading*/
+font-size:50px;
+color:#7b8081; 
+padding-top: 60px;
+padding-left: 200px; 
+}
+
+p{
+color:#7b8081;
+font-family: monospace;
+font-size: 15px;
+padding-left: 200px;
+padding-bottom: 250px;
+}
+
+h2{
+text-align: left;
+font-size: 35px;
+color: #585656;
+padding-left: 200px;
+padding-top: 30px;
+}
+
+.manhole{
+padding-bottom: 20px;
+background-color: #ffffff;
+}
+
+table{
+padding-left: 200px;
+}
+
+.markings{
+padding-bottom: 20px;
+background-color: #ffffff;
+}
+
+.cameras{
+padding-bottom: 20px;
+background-color: #ffffff;
+}
+
+.links{
+background-color: #ffffff;
+padding-top: 30px;
+padding-bottom: 30px;
+padding-left: 200px;   
+}
+
+.links a{
+color: #44a872;
+font-size: 20px;
+text-decoration: none;
+font-family: monospace;
+letter-spacing: 3px;
+}
+
+#m{
+padding-left: 40px;
+}
+
+#c{
+padding-left: 40px;  
+}
