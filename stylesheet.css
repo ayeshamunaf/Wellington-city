@@ -51,6 +51,7 @@ padding-left: 200px;
 #one, #one2{  /*manhole covers description*/
 font-family: monaco, Consolas, "Lucida Console", monospace;
 font-size: 16px;
+line-height: 30px;
 padding-left: 60px;
 }
 
