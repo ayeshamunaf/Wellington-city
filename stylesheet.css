@@ -7,6 +7,7 @@ margin:0;
 
 h1{          /*main heading*/
 font-size:50px;
+font-family: Papyrus, fantasy;
 color:#7b8081; 
 padding-top: 60px;
 padding-left: 200px; 
@@ -14,21 +15,23 @@ padding-left: 200px;
 
 #main{  /*main paragraph*/
 color:#7b8081;
-font-family: monospace;
-font-size: 15px;
+line-height: 30px;
+font-family: monaco, Consolas, "Lucida Console", monospace;
+font-size: 18px;
 padding-left: 200px;
 padding-bottom: 350px;
 }
 
 h2{      /*subheadings*/
 text-align: left;
+font-family: Papyrus, fantasy;
 font-size: 50px;
 color: #585656;
 padding-left: 200px;
 padding-top: 30px;
 }
 
-table{     /*table containing image ang body content*/
+table{     /*table containing image and body content*/
 padding-left: 200px;
 }
 
@@ -38,12 +41,14 @@ background-color: #ffffff;
 }
 
 .manhole p{
+font-family: monaco, Consolas, "Lucida Console", monospace;
 font-size: 20px;
 height: 250px;
 padding-left: 200px;
 }
 
 #one, #one2{  /*manhole covers description*/
+font-family: monaco, Consolas, "Lucida Console", monospace;
 font-size: 20px;
 padding-left: 60px;
 }
@@ -54,12 +59,14 @@ background-color: #ffffff;
 }
 
 .markings p{
+font-family: monaco, Consolas, "Lucida Console", monospace;
 font-size: 20px;
 height: 250px;
 padding-left: 200px;
 }
 
 #two{ /* street markings description*/
+font-family: monaco, Consolas, "Lucida Console", monospace;
 font-size: 20px;
 padding-left: 60px;
 }
@@ -71,11 +78,13 @@ background-color: #ffffff;
 
 .cameras p{
 font-size: 20px;
+font-family: monaco, Consolas, "Lucida Console", monospace;
 height: 250px;
 padding-left: 200px;
 }
 
 #three{   /*cameras description*/
+font-family: monaco, Consolas, "Lucida Console", monospace;
 font-size: 20px;
 padding-left: 60px;
 }
@@ -87,11 +96,13 @@ background-color: #ffffff;
 
 .antenna p{
 font-size: 20px;
+font-family: monaco, Consolas, "Lucida Console", monospace;
 height: 250px;
 padding-left: 200px;
 }
 
 #four, #four2{   /*various antenna description*/
+font-family: monaco, Consolas, "Lucida Console", monospace;
 font-size: 20px;
 padding-left: 60px;
 }
@@ -107,8 +118,8 @@ padding-left: 200px;
 color: #44a872;
 font-size: 20px;
 text-decoration: none;
-font-family: monospace;
-letter-spacing: 3px;
+font-family: monaco, Consolas, "Lucida Console", monospace;
+letter-spacing: 1px;
 }
 
 .links  a:hover { /*links style*/
@@ -134,11 +145,13 @@ padding-top: 50px;
 }
 
 #telecom{ /*manhole covers image 2*/
-height: 400px;
+font-family: monaco, Consolas, "Lucida Console", monospace;
+height: 500px;
 padding-top: 50px;
 }
 
 #ant2{ /*various antenna image 2*/
+font-family: monaco, Consolas, "Lucida Console", monospace;
 padding-top: 50px;
 padding-bottom: 20px;
 }
