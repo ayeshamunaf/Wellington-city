@@ -42,14 +42,15 @@ background-color: #ffffff;
 
 .manhole p{
 font-family: monaco, Consolas, "Lucida Console", monospace;
-font-size: 20px;
+font-size: 16px;
+line-height: 30px;
 height: 250px;
 padding-left: 200px;
 }
 
 #one, #one2{  /*manhole covers description*/
 font-family: monaco, Consolas, "Lucida Console", monospace;
-font-size: 20px;
+font-size: 16px;
 padding-left: 60px;
 }
 
@@ -60,7 +61,8 @@ background-color: #ffffff;
 
 .markings p{
 font-family: monaco, Consolas, "Lucida Console", monospace;
-font-size: 20px;
+font-size: 16px;
+line-height: 30px;
 height: 250px;
 padding-left: 200px;
 }
@@ -77,7 +79,8 @@ background-color: #ffffff;
 }
 
 .cameras p{
-font-size: 20px;
+font-size: 16px;
+line-height: 30px;
 font-family: monaco, Consolas, "Lucida Console", monospace;
 height: 250px;
 padding-left: 200px;
@@ -85,7 +88,8 @@ padding-left: 200px;
 
 #three{   /*cameras description*/
 font-family: monaco, Consolas, "Lucida Console", monospace;
-font-size: 20px;
+font-size: 16px;
+line-height: 30px;
 padding-left: 60px;
 }
 
@@ -95,7 +99,8 @@ background-color: #ffffff;
 }
 
 .antenna p{
-font-size: 20px;
+font-size: 16px;
+line-height: 30px;
 font-family: monaco, Consolas, "Lucida Console", monospace;
 height: 250px;
 padding-left: 200px;
@@ -103,7 +108,8 @@ padding-left: 200px;
 
 #four, #four2{   /*various antenna description*/
 font-family: monaco, Consolas, "Lucida Console", monospace;
-font-size: 20px;
+font-size: 16px;
+line-height: 30px;
 padding-left: 60px;
 }
 
@@ -154,4 +160,8 @@ padding-top: 50px;
 font-family: monaco, Consolas, "Lucida Console", monospace;
 padding-top: 50px;
 padding-bottom: 20px;
+}
+
+h3{
+
 }
