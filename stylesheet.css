@@ -48,7 +48,7 @@ height: 250px;
 padding-left: 200px;
 }
 
-#one, #one2{  /*manhole covers description*/
+#one p, #one2 p {  /*manhole covers description*/
 font-family: monaco, Consolas, "Lucida Console", monospace;
 font-size: 16px;
 line-height: 30px;
@@ -68,7 +68,7 @@ height: 250px;
 padding-left: 200px;
 }
 
-#two{ /* street markings description*/
+#two p{ /* street markings description*/
 font-family: monaco, Consolas, "Lucida Console", monospace;
 font-size: 20px;
 padding-left: 60px;
@@ -87,7 +87,7 @@ height: 250px;
 padding-left: 200px;
 }
 
-#three{   /*cameras description*/
+#three p{   /*cameras description*/
 font-family: monaco, Consolas, "Lucida Console", monospace;
 font-size: 16px;
 line-height: 30px;
@@ -107,7 +107,7 @@ height: 250px;
 padding-left: 200px;
 }
 
-#four, #four2{   /*various antenna description*/
+#four p, #four2 p{   /*various antenna description*/
 font-family: monaco, Consolas, "Lucida Console", monospace;
 font-size: 16px;
 line-height: 30px;
@@ -164,5 +164,8 @@ padding-bottom: 20px;
 }
 
 h3{
-
+font-family: monaco, Consolas, "Lucida Console", monospace;
+font-size: 25px;
+letter-spacing: 3px;
+padding-left: 60px;
 }
